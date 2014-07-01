@@ -42,7 +42,7 @@ source $ZSH/oh-my-zsh.sh
 
 # Customize to your needs...
 export PATH=/usr/local/bin:/usr/bin:/bin:/usr/bin/X11:/usr/games
-export PATH=$PATH:/home/iw/iwasperu/latex/usr/local/texlive/bin/x86_64-linux
+
 export LC_ALL="en_US.UTF-8"
 
 alias 'open'='xdg-open'
